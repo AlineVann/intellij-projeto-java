@@ -1,2 +1,2 @@
-# intellij-projeto-java
+# dio-intellij-proj-java
 projeto Minha Classe Java
